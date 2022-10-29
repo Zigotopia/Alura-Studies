@@ -39,6 +39,6 @@ Second  project learning React fundamentals to build a project with react app. T
 - [x] Concluded
 
 ## Deploy
-- Link : [Organo](https://organo-gold.vercel.app/)
+- Link : [Alura-Studies](https://alura-studies-pied.vercel.app/)
   
   
